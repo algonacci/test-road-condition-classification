@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+crack/
+good/
+pothole/
+
 # Distribution / packaging
 .Python
 build/
